@@ -1,1 +1,5 @@
-gałąź dalsza rozbudowa
+<<<<<<< HEAD
+
+=======
+gałąź master
+>>>>>>> master
