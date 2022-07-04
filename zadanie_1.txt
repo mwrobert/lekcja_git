@@ -2,7 +2,7 @@ temperatura maksymalna: 30
 temperatura minimalna: 20
 
 wilgotność maksymalna: 80
-wilgotność minimalna: 455555555
+wilgotność minimalna: 46666666666
 
 objętość szklarni: 4x3x2 / 2
 
