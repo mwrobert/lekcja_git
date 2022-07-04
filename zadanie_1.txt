@@ -8,7 +8,7 @@ objętość szklarni: 4x3x2 / 2
 
 co hodujemy: Ananasy
 
-// druga polowa
+//// druga polowa
 
 temperatura maksymalna: 35
 temperatura minimalna: 30
